@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou uma estudante de Front-End e UX, explorando o mundo do desenvolvimento web. Aqui compartilho meus projetos e aprendizados. Sinta-se à vontade para explorar e colaborar!<br><br>✨ Vamos codar! 😊</p>
+<p align="left">Sou uma estudante de Front-End e UX, explorando o mundo do desenvolvimento web. Aqui compartilho meus projetos e aprendizados. Sinta-se à vontade para explorar e colaborar!<br><br> Vamos codar! 😊</p>
 
 ###
 
